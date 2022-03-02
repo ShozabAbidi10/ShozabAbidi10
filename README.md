@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Please find all my projects that I have worked on over the years. Hope it will help you learn something interesting and exciting. Please let me know if you have any questions or feedbacks. Thanks!
+I am working in the field of Robotics. You can find all my projects, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning that I have worked on over the years. Hope it will help you learn something interesting and exciting. Please let me know if you have any questions or feedbacks. Thanks!
 
 📫 You can reach me using this email: hasanshozab10@gmail.com
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I am currently working in the area of Robotics, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning, Computer Vision, and Mixed Reality.
-- 🌱 I am currently using the Robot Operating System (ROS) to design the software architecture for various Robotics Applications.
+
 - 👯 I  profecient in Programming languages such as Python, C++, C#, and MATLAB.
 - ⚡ I have worked with DJI Tello Drone, Hololens 2, Miro Robot, Pepper Robot, Baxter Robotm, Leap motion controller.
 
