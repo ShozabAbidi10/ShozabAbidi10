@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am working in the field of Robotics. You can find all my projects, specially in the domain of Mobile Robots, Autonomous Navigation, SLAM, Motion Planning that I have worked on over the years. I hope it will help you learn something interesting and exciting. Please let me know if you have any questions or feedbacks. Thanks!
+I am working in the field of Software Engineering and Automation. You can find all my projects, specially in the domain of Software Development, Robotics, Machine Learning, AI automation that I have worked on over the years. I hope it will help you learn something interesting and exciting. Please let me know if you have any questions or feedbacks. Thanks!
 
 📫 You can reach me using this email: hasanshozab10@gmail.com
 
